@@ -6,7 +6,7 @@
 
 <body>
 
-  <#include "nav.ftl">
+  <#include "nav-hello.ftl">
 
 <div class="jumbotron text-center">
   <div class="container">
@@ -20,10 +20,10 @@
  
   </div> <!-- row -->
    <div class="alert alert-info text-center" role="alert">
-   Czy wiesz, że?
+   Czy wiesz, ze?
   </div>
 </div>
-
+${massMessage}
 
 </body>
 </html>
