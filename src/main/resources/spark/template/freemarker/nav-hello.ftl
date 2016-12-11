@@ -5,7 +5,10 @@
         <a href="/"><span class="glyphicon glyphicon-home"></span> Home</a>
       </li>
       <li class="active">
-        <a href="hello"><span class="glyphicon glyphicon-user"></span> Hello</a>
+        <a href="hello"><span class="glyphicon glyphicon-alert"></span> Hello</a>
+      </li>
+      <li>
+        <a href="db"><span class="glyphicon glyphicon-wrench"></span> DB</a>
       </li>
       <li>
         <a href="https://devcenter.heroku.com/articles/how-heroku-works"><span class="glyphicon glyphicon-user"></span> How Heroku Works</a>
